@@ -1,7 +1,7 @@
 
 # Campylobacter MAGs
 
-This repository contains scripts and data sets (or info on where to download them) for the manuscript 
+This repository contains scripts and data sets for the manuscript
 "Capturing clinically relevant Campylobacter attributes through direct whole genome sequencing of stool"
 
 # Licence
