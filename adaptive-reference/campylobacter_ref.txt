@@ -1,0 +1,602 @@
+NZ_CP068567.1 Campylobacter jejuni strain CC19PF065 chromosome, complete genome 
+NZ_CP068586.1 Campylobacter coli strain CC19CH076 chromosome, complete genome 
+NZ_CP076507.1 Campylobacter jejuni strain R16.0174 chromosome, complete genome 
+NZ_CP076509.1 Campylobacter coli strain R18.1828 chromosome, complete genome 
+NZ_CP076510.1 Campylobacter coli strain R19.0802 chromosome, complete genome 
+NZ_CP076503.1 Campylobacter coli strain R19.0895 chromosome, complete genome 
+NZ_CP076504.1 Campylobacter jejuni strain R18.1301 chromosome, complete genome 
+NZ_CP076505.1 Campylobacter jejuni strain R16.4752 chromosome, complete genome 
+NZ_CP076513.1 Campylobacter coli strain R19.1157 chromosome, complete genome 
+NZ_CP076657.1 Campylobacter novaezeelandiae strain W441b chromosome, complete genome 
+NZ_CP077633.1 Campylobacter jejuni strain R16.2162 chromosome, complete genome 
+NZ_CP077635.1 Campylobacter jejuni strain R19.1007 chromosome, complete genome 
+NZ_CP080547.1 Campylobacter coli strain CAN10 chromosome 
+NZ_AP024713.1 Campylobacter sp. 19-13652 chromosome, complete genome 
+NZ_CP081480.1 Campylobacter jejuni strain NCTC12658 chromosome, complete genome 
+NZ_CP082874.1 Campylobacter coli strain FDAARGOS_1466 chromosome, complete genome 
+NZ_CP082871.1 Campylobacter hominis strain FDAARGOS_1467 chromosome, complete genome 
+NZ_CP082881.1 Campylobacter coli strain FDAARGOS_1465 chromosome, complete genome 
+NZ_CP082947.1 Campylobacter coli strain C203016 chromosome, complete genome 
+NZ_CP083395.1 Campylobacter coli strain C203018 chromosome, complete genome 
+NZ_CP083377.1 Campylobacter coli strain C203110 chromosome, complete genome 
+NZ_CP083378.1 Campylobacter coli strain C203112 chromosome, complete genome 
+NZ_CP083379.1 Campylobacter coli strain C203115 chromosome, complete genome 
+NC_003912.7 Campylobacter jejuni RM1221, complete sequence 
+NC_008599.1 Campylobacter fetus subsp. fetus 82-40, complete sequence 
+NC_008787.1 Campylobacter jejuni subsp. jejuni 81-176, complete sequence 
+NC_009714.1 Campylobacter hominis ATCC BAA-381, complete sequence 
+NC_009802.2 Campylobacter concisus 13826, complete sequence 
+NC_009839.1 Campylobacter jejuni subsp. jejuni 81116, complete sequence 
+NC_012039.1 Campylobacter lari RM2100, complete sequence 
+NC_017279.1 Campylobacter jejuni subsp. jejuni IA3902, complete sequence 
+NC_017280.1 Campylobacter jejuni subsp. jejuni M1, complete sequence 
+NZ_CM000854.1 Campylobacter jejuni subsp. jejuni 1336 chromosome, whole genome shotgun sequence 
+NZ_CP005388.1 Campylobacter jejuni subsp. jejuni CG8421 chromosome, complete genome 
+NC_017281.1 Campylobacter jejuni subsp. jejuni S3, complete sequence 
+NC_018709.4 Campylobacter jejuni subsp. jejuni PT14, complete sequence 
+NC_021834.1 Campylobacter jejuni 32488, complete sequence 
+NC_022347.1 Campylobacter coli CVM N29710, complete sequence 
+NC_022351.2 Campylobacter jejuni subsp. jejuni 00-2538, complete sequence 
+NC_022353.2 Campylobacter jejuni subsp. jejuni 00-2544, complete sequence 
+NC_022352.2 Campylobacter jejuni subsp. jejuni 00-2426, complete sequence 
+NZ_CP076835.1 Campylobacter jejuni X chromosome, complete genome 
+NC_022362.2 Campylobacter jejuni subsp. jejuni 00-2425, complete sequence 
+NC_022132.1 Campylobacter coli 76339 chromosome I, complete sequence 
+NC_022529.1 Campylobacter jejuni 4031 chromosome I, complete sequence 
+NC_022660.2 Campylobacter coli 15-537360, complete sequence 
+NZ_CP006999.2 Campylobacter fetus subsp. venerealis cfvi03/293 chromosome, complete genome 
+NZ_CP007183.1 Campylobacter coli RM1875 chromosome, complete genome 
+NZ_CP007181.1 Campylobacter coli RM4661 chromosome, complete genome 
+NZ_CP007179.1 Campylobacter coli RM5611 chromosome, complete genome 
+NZ_CP005081.1 Campylobacter jejuni subsp. jejuni R14 chromosome, complete genome 
+NZ_CP009043.1 Campylobacter iguaniorum strain 1485E chromosome, complete genome 
+NZ_CP008787.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj20 chromosome, complete genome 
+NZ_CP008808.1 Campylobacter fetus subsp. fetus 04/554 chromosome, complete genome 
+NZ_CP008810.1 Campylobacter fetus subsp. venerealis 97/608 chromosome, complete genome 
+NZ_CP073712.1 Campylobacter jejuni strain G1 chromosome, complete genome 
+NZ_CP006851.1 Campylobacter jejuni subsp. jejuni F38011 chromosome, complete genome 
+NZ_CP009226.1 Campylobacter fetus subsp. testudinum strain pet-3 isolate pet-3-1 chromosome, complete genome 
+NZ_CP007770.1 Campylobacter insulaenigrae NCTC 12927 chromosome, complete genome 
+NZ_CP007771.1 Campylobacter lari subsp. concheus LMG 11760 chromosome, complete genome 
+NZ_CP007769.1 Campylobacter sp. RM16704 chromosome, complete genome 
+NZ_CP007772.1 Campylobacter subantarcticus LMG 24374 chromosome, complete genome 
+NZ_CP007773.1 Campylobacter subantarcticus LMG 24377 chromosome, complete genome 
+NZ_CP007774.1 Campylobacter volucris LMG 24379 chromosome, complete genome 
+NZ_CP007775.1 Campylobacter lari NCTC 11845 chromosome, complete genome 
+NZ_CP007776.2 Campylobacter lari CCUG 22395 chromosome, complete genome 
+NZ_CP007777.1 Campylobacter lari RM16701 chromosome, complete genome 
+NZ_CP007778.1 Campylobacter lari RM16712 chromosome, complete genome 
+NZ_CP007766.1 Campylobacter peloridis LMG 23910 chromosome, complete genome 
+NZ_CP006689.1 Campylobacter jejuni subsp. jejuni NCTC 11168-GSv strain NCTC 11168-rNRC chromosome, complete genome 
+NZ_CP010306.1 Campylobacter jejuni subsp. jejuni strain 00-1597 chromosome, complete genome 
+NZ_CP010307.1 Campylobacter jejuni subsp. jejuni strain 00-6200 chromosome, complete genome 
+NZ_CP010072.1 Campylobacter jejuni subsp. jejuni strain 01-1512 chromosome, complete genome 
+NZ_CP010301.1 Campylobacter jejuni subsp. jejuni strain 00-0949 chromosome, complete genome 
+NZ_CP010906.1 Campylobacter jejuni subsp. jejuni strain 35925 chromosome, complete genome 
+NZ_CP011015.1 Campylobacter coli strain FB1 chromosome, complete genome 
+NZ_HG004426.1 Campylobacter fetus subsp. venerealis str. 84-112 chromosome I, complete sequence 
+NZ_CP011372.1 Campylobacter lari strain Slaughter Beach chromosome, complete genome 
+NZ_CP012196.1 Campylobacter gracilis strain ATCC 33236 chromosome, complete genome 
+NZ_CP012195.1 Campylobacter ureolyticus RIGS 9880 chromosome, complete genome 
+NZ_CP012541.1 Campylobacter concisus strain ATCC 33237 chromosome, complete genome 
+NZ_CP012689.1 Campylobacter jejuni subsp. jejuni strain RM3197 chromosome, complete genome 
+NZ_CP012696.1 Campylobacter jejuni strain RM1285 chromosome, complete genome 
+NZ_CP013032.1 Campylobacter coli strain CO2-160 genome 
+NZ_CP013034.1 Campylobacter coli strain HC2-48 chromosome, complete genome 
+NZ_CP013036.1 Campylobacter coli strain CF2-75 genome 
+NZ_CP013116.1 Campylobacter jejuni strain T1-21 genome 
+NZ_LN831025.1 Campylobacter jejuni strain NCTC11351 chromosome 1, complete sequence 
+NZ_CP013733.1 Campylobacter coli strain OR12 chromosome, complete genome 
+NZ_CP010995.1 Campylobacter iguaniorum strain 2463D chromosome, complete genome 
+NZ_CP010953.1 Campylobacter fetus subsp. testudinum Sp3 chromosome, complete genome 
+NZ_CP010471.1 Campylobacter jejuni strain CJ677CC519 chromosome, complete genome 
+NZ_CP010472.1 Campylobacter jejuni strain CJ677CC002 chromosome, complete genome 
+NZ_CP010473.1 Campylobacter jejuni strain CJ677CC534 chromosome, complete genome 
+NZ_CP010474.1 Campylobacter jejuni strain CJ677CC536 chromosome, complete genome 
+NZ_CP010475.1 Campylobacter jejuni strain CJ677CC073 chromosome, complete genome 
+NZ_CP010476.1 Campylobacter jejuni strain CJ677CC521 chromosome, complete genome 
+NZ_CP010477.1 Campylobacter jejuni strain CJ677CC526 chromosome, complete genome 
+NZ_CP010479.1 Campylobacter jejuni strain CJ677CC036 chromosome, complete genome 
+NZ_CP010480.1 Campylobacter jejuni strain CJ677CC524 chromosome, complete genome 
+NZ_CP059439.1 Campylobacter fetus strain CFV08A1102-42A chromosome, complete genome 
+NZ_CP059974.1 Campylobacter fetus strain CFF02A725-35A chromosome, complete genome 
+NZ_CP059443.1 Campylobacter fetus strain CFF00A031 chromosome, complete genome 
+NZ_CP059432.1 Campylobacter fetus strain CFViADRI1362 chromosome, complete genome 
+NZ_CP059445.1 Campylobacter fetus strain CFF09A980 chromosome, complete genome 
+NZ_CP059441.1 Campylobacter fetus strain CFV08A948-2A chromosome, complete genome 
+NZ_CP059437.1 Campylobacter fetus strain CFViADRI545 chromosome, complete genome 
+NZ_CP048771.1 Campylobacter jejuni strain ZS007 chromosome, complete genome 
+NZ_CP048756.1 Campylobacter jejuni strain ZS006 chromosome, complete genome 
+NZ_CP048760.1 Campylobacter jejuni strain ZS005 chromosome, complete genome 
+NZ_CP048761.1 Campylobacter jejuni strain ZS004 chromosome, complete genome 
+NZ_CP048763.1 Campylobacter jejuni strain ZH006 chromosome, complete genome 
+NZ_CP048767.1 Campylobacter jejuni strain ZJB021 chromosome, complete genome 
+NZ_CP050963.1 Campylobacter ureolyticus strain FDAARGOS_673 chromosome 
+NZ_CP040613.1 Campylobacter sp. CFSAN093246 chromosome, complete genome 
+NZ_CP040612.1 Campylobacter sp. CFSAN093241 chromosome, complete genome 
+NZ_CP040615.1 Campylobacter sp. CFSAN093256 chromosome, complete genome 
+NZ_CP040617.1 Campylobacter sp. CFSAN093259 chromosome, complete genome 
+NZ_CP040618.1 Campylobacter sp. CFSAN093260 chromosome, complete genome 
+NZ_CP040607.1 Campylobacter sp. CFSAN093224 chromosome, complete genome 
+NZ_CP040608.1 Campylobacter sp. CFSAN093226 chromosome, complete genome 
+NZ_CP040610.1 Campylobacter sp. CFSAN093227 chromosome, complete genome 
+NZ_CP040611.1 Campylobacter sp. CFSAN093238 chromosome, complete genome 
+NZ_CP053659.1 Campylobacter jejuni strain 2016-IZSVE-19-111250 chromosome, complete genome 
+NZ_CP035946.1 Campylobacter canadensis strain LMG 24001 chromosome, complete genome 
+NZ_CP053848.1 Campylobacter ornithocola strain LMG 29815 chromosome, complete genome 
+NZ_CP053842.1 Campylobacter corcagiensis strain LMG 27932 chromosome, complete genome 
+NZ_CP053844.1 Campylobacter geochelonis strain LMG 29375 chromosome, complete genome 
+NZ_CP053841.1 Campylobacter blaseri strain LMG 30333 chromosome, complete genome 
+NZ_CP053845.1 Campylobacter sp. CCUG 57310 chromosome, complete genome 
+NZ_CP054848.1 Campylobacter jejuni strain BfR-CA-12970 chromosome 
+NZ_CP054847.1 Campylobacter jejuni strain BfR-CA-14138 chromosome 
+NZ_CP053825.1 Campylobacter armoricus strain CCUG 73571 chromosome, complete genome 
+NZ_CP053826.1 Campylobacter curvus strain ATCC 35224 chromosome, complete genome 
+NZ_CP053827.1 Campylobacter hyointestinalis subsp. hyointestinalis strain CCUG 14169 chromosome, complete genome 
+NZ_CP053828.1 Campylobacter hyointestinalis subsp. lawsonii strain CHY5 chromosome, complete genome 
+NZ_CP053830.1 Campylobacter lari subsp. lari strain LMG 8846 chromosome, complete genome 
+NZ_CP053831.1 Campylobacter mucosalis strain ATCC 43264 chromosome, complete genome 
+NZ_CP053832.1 Campylobacter ureolyticus strain LMG 6451 chromosome, complete genome 
+NZ_CP053849.1 Campylobacter upsaliensis RM3940 chromosome, complete genome 
+NZ_CP058293.1 Campylobacter jejuni strain D33a chromosome, complete genome 
+NZ_CP058299.1 Campylobacter jejuni strain A9a chromosome, complete genome 
+NZ_CP058340.1 Campylobacter coli strain 20A420 chromosome, complete genome 
+NZ_CP040015.1 Campylobacter jejuni subsp. jejuni strain LDG17f chromosome, complete genome 
+NZ_CP040016.1 Campylobacter jejuni subsp. jejuni strain 9090 chromosome, complete genome 
+NZ_CP058295.1 Campylobacter jejuni strain A14a chromosome, complete genome 
+NZ_CP058336.1 Campylobacter coli strain R7B144 chromosome, complete genome 
+NZ_CP059158.1 Campylobacter jejuni subsp. jejuni strain OBT12386 chromosome, complete genome 
+NZ_CP059159.1 Campylobacter jejuni subsp. jejuni strain OBT12393 chromosome, complete genome 
+NZ_CP059160.1 Campylobacter jejuni subsp. jejuni strain OBT12390 chromosome, complete genome 
+NZ_CP059682.1 Campylobacter upsaliensis strain FDAARGOS_736 chromosome, complete genome 
+NZ_CP059709.1 Campylobacter jejuni strain C41 chromosome, complete genome 
+NZ_CP059964.1 Campylobacter jejuni strain C1922C72 chromosome, complete genome 
+NZ_CP059972.1 Campylobacter jejuni strain C220 chromosome, complete genome 
+NZ_CP059965.1 Campylobacter jejuni strain C219 chromosome, complete genome 
+NZ_CP059966.1 Campylobacter jejuni strain C203 chromosome, complete genome 
+NZ_CP059967.1 Campylobacter jejuni strain C201 chromosome, complete genome 
+NZ_CP059968.1 Campylobacter jejuni strain C197 chromosome, complete genome 
+NZ_CP059969.1 Campylobacter jejuni strain C109 chromosome, complete genome 
+NZ_CP059970.1 Campylobacter jejuni strain C57 chromosome, complete genome 
+NZ_CP059971.1 Campylobacter jejuni strain C34 chromosome, complete genome 
+NZ_CP061537.1 Campylobacter coli strain PSU-32 chromosome, complete genome 
+NZ_CP027638.1 Campylobacter coli strain meC0467 chromosome, complete genome 
+NZ_CP027639.1 Campylobacter coli strain meC0280 chromosome, complete genome 
+NZ_CP027634.1 Campylobacter coli strain meC0281 chromosome, complete genome 
+NZ_CP063078.1 Campylobacter corcagiensis strain 2016D-0077 chromosome, complete genome 
+NZ_CP063079.1 Campylobacter peloridis strain 2016D-0074 chromosome, complete genome 
+NZ_CP063089.1 Campylobacter sp. 2014D-0216 chromosome, complete genome 
+NZ_CP063091.1 Campylobacter cuniculorum strain 2010D-8469 chromosome, complete genome 
+NZ_CP063357.1 Campylobacter jejuni strain R4B202 chromosome, complete genome 
+NZ_CP049234.1 Campylobacter concisus strain P15UCO-S2 chromosome, complete genome 
+NZ_CP049237.1 Campylobacter concisus strain H1O1 chromosome, complete genome 
+NZ_CP049239.1 Campylobacter concisus strain P3UCO1 chromosome, complete genome 
+NZ_CP049232.1 Campylobacter concisus strain H9O-S2 chromosome, complete genome 
+NZ_CP065357.1 Campylobacter hepaticus strain UF2019SK1 chromosome, complete genome 
+NZ_CP066027.1 Campylobacter coli strain FDAARGOS_1028 chromosome, complete genome 
+NZ_CP066242.1 Campylobacter jejuni strain RM1221 chromosome, complete genome 
+NZ_CP051880.1 Campylobacter fetus subsp. venerealis strain P4531 chromosome, complete genome 
+NZ_CP066745.1 Campylobacter jejuni strain CJP19-D996 isolate CFSAN091032 chromosome, complete genome 
+NZ_CP068172.1 Campylobacter lari strain FDAARGOS_1101 chromosome, complete genome 
+NZ_CP068487.1 Campylobacter ureolyticus strain FDAARGOS_1102 chromosome 
+NZ_CP071459.1 Campylobacter jejuni strain CAMSA2038 chromosome, complete genome 
+NZ_CP071460.1 Campylobacter jejuni strain CAMSA2002 chromosome, complete genome 
+NZ_CP071519.1 Campylobacter jejuni strain RM1245 chromosome, complete genome 
+NZ_CP071574.1 Campylobacter jejuni strain RM1510 chromosome, complete genome 
+NZ_CP071575.1 Campylobacter jejuni strain RM3147 chromosome, complete genome 
+NZ_CP071576.1 Campylobacter jejuni strain R12 chromosome, complete genome 
+NZ_CP071579.1 Campylobacter jejuni strain GB03 chromosome, complete genome 
+NZ_CP071580.1 Campylobacter jejuni strain R23 chromosome, complete genome 
+NZ_CP071581.1 Campylobacter jejuni strain R31 chromosome, complete genome 
+NZ_CP071582.1 Campylobacter jejuni strain GB28 chromosome, complete genome 
+NZ_CP071583.1 Campylobacter jejuni strain GB60 chromosome, complete genome 
+NZ_CP071584.1 Campylobacter jejuni strain R73 chromosome, complete genome 
+NZ_CP071585.1 Campylobacter jejuni subsp. jejuni strain GB26 chromosome, complete genome 
+NZ_CP071577.1 Campylobacter jejuni strain GB18 chromosome, complete genome 
+NZ_CP071578.1 Campylobacter jejuni strain R72 chromosome, complete genome 
+NZ_CP071592.1 Campylobacter jejuni subsp. jejuni strain GB19 chromosome, complete genome 
+NZ_CP072664.1 Campylobacter fetus subsp. fetus strain CITCf01 chromosome, complete genome 
+NZ_CP072665.1 Campylobacter fetus subsp. fetus strain CITCf02 chromosome, complete genome 
+NZ_CP068566.1 Campylobacter coli strain CC19DZ037 chromosome, complete genome 
+NZ_CP086166.1 Campylobacter jejuni strain OBT12377 chromosome, complete genome 
+NZ_CP086163.1 Campylobacter jejuni strain OBT12393 chromosome, complete genome 
+NZ_CP086164.1 Campylobacter jejuni strain OBT12390 chromosome, complete genome 
+NZ_CP086168.1 Campylobacter jejuni strain CMP10190 chromosome, complete genome 
+NZ_CP086165.1 Campylobacter jejuni strain OBT12386 chromosome, complete genome 
+NZ_CP086169.1 Campylobacter jejuni strain 6-1198-19 chromosome 
+NZ_CP086171.1 Campylobacter jejuni strain 6-1083-19 chromosome, complete genome 
+NZ_CP086170.1 Campylobacter jejuni strain 6-1197-19 chromosome, complete genome 
+NZ_CP086172.1 Campylobacter jejuni strain 6-897-19 chromosome, complete genome 
+NZ_CP085925.1 Campylobacter fetus subsp. testudinum strain FDAARGOS_1591 chromosome, complete genome 
+NZ_CP085965.1 Campylobacter jejuni strain FDAARGOS_1546 chromosome, complete genome 
+NZ_CP085963.1 Campylobacter gracilis strain FDAARGOS_1548 chromosome, complete genome 
+NZ_CP085962.1 Campylobacter rectus strain FDAARGOS_1549 chromosome, complete genome 
+NZ_CP085964.1 Campylobacter curvus strain FDAARGOS_1547 chromosome, complete genome 
+NZ_LS483362.1 Campylobacter jejuni subsp. jejuni strain NCTC11168 chromosome 1, complete sequence 
+NZ_LS483431.1 Campylobacter fetus subsp. fetus strain NCTC10842 chromosome 1, complete sequence 
+NZ_LR134372.1 Campylobacter upsaliensis strain NCTC11541 chromosome 1, complete sequence 
+NZ_LR134471.1 Campylobacter insulaenigrae strain NCTC12927 chromosome 1, complete sequence 
+NZ_LR134497.1 Campylobacter jejuni strain NCTC13268 chromosome 1, complete sequence 
+NZ_LR134498.1 Campylobacter jejuni strain NCTC13265 chromosome 1, complete sequence 
+NZ_LR134500.1 Campylobacter jejuni strain NCTC13261 chromosome 1, complete sequence 
+NZ_LR134499.1 Campylobacter jejuni strain NCTC13255 chromosome 1, complete sequence 
+NZ_LR134502.1 Campylobacter jejuni strain NCTC13257 chromosome 1, complete sequence 
+NZ_LR134505.1 Campylobacter jejuni subsp. jejuni strain NCTC12109 chromosome 1, complete sequence 
+NZ_LR134507.1 Campylobacter jejuni strain NCTC12851 chromosome 1, complete sequence 
+NZ_LR134508.1 Campylobacter lari strain NCTC11937 chromosome 1, complete sequence 
+NZ_LR134511.1 Campylobacter jejuni subsp. jejuni strain NCTC10983 chromosome 1, complete sequence 
+NZ_LR134534.1 Campylobacter insulaenigrae strain NCTC12928 chromosome 1, complete sequence 
+NZ_LR535679.1 Campylobacter showae isolate B91_SC chromosome 1 
+NZ_LR698972.1 Campylobacter curvus isolate MGYG-HGUT-01706 chromosome 1 
+NZ_LR698976.1 Campylobacter lanienae isolate MGYG-HGUT-02308 chromosome 1 
+NZ_LR698977.1 Campylobacter hyointestinalis isolate MGYG-HGUT-02307 chromosome 1 
+NZ_OU701461.1 Campylobacter upsaliensis strain Campylobacter upsaliensis CCUG 14913 chromosome 1, complete sequence 
+NZ_OU701459.1 Campylobacter upsaliensis strain Campylobacter upsaliensis 17-M197059 chromosome 1, complete sequence 
+NZ_CP028185.1 Campylobacter jejuni strain CFSAN054107 chromosome, complete genome 
+NZ_CP028187.1 Campylobacter coli strain CFSAN054106 chromosome, complete genome 
+NZ_CP021642.1 Campylobacter concisus strain P2CDO4 chromosome, complete genome 
+NZ_CP049270.1 Campylobacter concisus strain P26UCO-S2 chromosome, complete genome 
+NZ_CP049263.1 Campylobacter concisus strain H16O-S1 chromosome, complete genome 
+NZ_CP060707.1 Campylobacter concisus strain P1CDO2 chromosome, complete genome 
+NZ_CP049266.1 Campylobacter concisus strain P1CDO3 chromosome, complete genome 
+NZ_CP049274.1 Campylobacter concisus strain P10CDO-S2 chromosome, complete genome 
+NZ_CP049272.1 Campylobacter concisus strain P27CDO-S2 chromosome, complete genome 
+NZ_CP060705.1 Campylobacter concisus strain P13UCO-S1 chromosome, complete genome 
+NZ_CP049264.1 Campylobacter concisus strain P11CDO-S1 chromosome, complete genome 
+NZ_CP028909.1 Campylobacter jejuni strain 12567 chromosome, complete genome 
+NZ_CP028910.1 Campylobacter jejuni strain NCTC 12660 chromosome, complete genome 
+NZ_CP028911.1 Campylobacter jejuni strain NCTC 12661 chromosome, complete genome 
+NZ_CP028912.1 Campylobacter jejuni strain NCTC 12664 chromosome, complete genome 
+NZ_CP012206.1 Campylobacter jejuni strain CJ067CC45 chromosome, complete genome 
+NZ_CP012210.1 Campylobacter jejuni strain CJ515CC45 chromosome, complete genome 
+NZ_CP012211.1 Campylobacter jejuni strain CJ031CC45 chromosome, complete genome 
+NZ_CP012212.1 Campylobacter jejuni strain CJ017CCUA chromosome, complete genome 
+NZ_CP012213.1 Campylobacter jejuni strain CJ513CC45 chromosome, complete genome 
+NZ_CP012214.1 Campylobacter jejuni strain CJ088CC52 chromosome, complete genome 
+NZ_CP012216.1 Campylobacter jejuni strain CJ074CC443 chromosome, complete genome 
+NZ_CP012217.1 Campylobacter jejuni strain CJ071CC464 chromosome, complete genome 
+NZ_CP012220.1 Campylobacter jejuni strain CJ090CC1332 chromosome, complete genome 
+NZ_CP012221.1 Campylobacter jejuni strain CJ018CCUA chromosome, complete genome 
+NZ_CP012224.1 Campylobacter jejuni strain CJ066CC508 chromosome, complete genome 
+NZ_CP032316.1 Campylobacter jejuni subsp. jejuni strain HPC5 chromosome, complete genome 
+NZ_CP034393.1 Campylobacter jejuni subsp. jejuni strain CLB104 chromosome, complete genome 
+NZ_CP028372.1 Campylobacter jejuni subsp. jejuni strain huA17 chromosome, complete genome 
+NZ_CP028933.1 Campylobacter jejuni strain FORC_083 chromosome, complete genome 
+NZ_CP037746.1 Campylobacter volucris strain 2014D-0083 chromosome, complete genome 
+NZ_CP037747.1 Campylobacter helveticus strain 2013D-9613 chromosome, complete genome 
+NZ_CP012542.1 Campylobacter mucosalis CCUG 21559 chromosome, complete genome 
+NZ_CP012543.1 Campylobacter rectus strain ATCC 33238 chromosome, complete genome 
+NZ_CP012544.1 Campylobacter showae strain ATCC 51146 chromosome, complete genome 
+NZ_CP012545.1 Campylobacter sp. RM6914 chromosome, complete genome 
+NZ_CP012552.1 Campylobacter sp. RM16192 chromosome, complete genome 
+NZ_CP032522.1 Campylobacter jejuni strain BC chromosome, complete genome 
+NZ_CP040239.1 Campylobacter coli strain S9 chromosome, complete genome 
+NZ_CP040464.1 Campylobacter hyointestinalis subsp. hyointestinalis strain S12 chromosome, complete genome 
+NZ_CP041584.1 Campylobacter jejuni strain YH003 chromosome, complete genome 
+NZ_CP042162.1 Campylobacter fetus subsp. fetus strain INIA/17144 chromosome, complete genome 
+NZ_CP043427.1 Campylobacter sputorum biovar sputorum strain LMG 7795 chromosome, complete genome 
+NZ_CP043426.1 Campylobacter lari subsp. concheus strain LMG 21009 chromosome, complete genome 
+NZ_CP043428.1 Campylobacter volucris strain LMG 24380 chromosome, complete genome 
+NZ_CP043435.1 Campylobacter fetus subsp. venerealis NCTC 10354 chromosome, complete genome 
+NZ_CP043763.1 Campylobacter jejuni strain BfR-CA-14430 chromosome, complete genome 
+NZ_CP044161.1 Campylobacter coli strain AR-0420 chromosome, complete genome 
+NZ_CP044162.1 Campylobacter jejuni strain AR-0419 chromosome, complete genome 
+NZ_CP044167.1 Campylobacter jejuni strain AR-0415 chromosome, complete genome 
+NZ_CP044169.1 Campylobacter jejuni strain AR-0414 chromosome, complete genome 
+NZ_CP044171.1 Campylobacter jejuni strain AR-0413 chromosome, complete genome 
+NZ_CP044175.1 Campylobacter coli strain AR-0411 chromosome, complete genome 
+NZ_CP044262.1 Campylobacter armoricus strain CA639 chromosome, complete genome 
+NZ_CP042462.1 Campylobacter coli strain 18-84 chromosome 
+NZ_CP042463.1 Campylobacter coli strain 18-75 chromosome 
+NZ_CP045048.1 Campylobacter jejuni subsp. jejuni strain NADC 20827 chromosome, complete genome 
+NZ_CP045789.1 Campylobacter jejuni strain CFSAN032806 chromosome, complete genome 
+NZ_CP045791.1 Campylobacter coli strain CFSAN032805 chromosome, complete genome 
+NZ_CP046317.1 Campylobacter coli strain FDAARGOS_735 chromosome, complete genome 
+NZ_CP035891.1 Campylobacter jejuni strain 15AR1555 chromosome 
+NZ_CP035892.1 Campylobacter jejuni strain 15AR0984 chromosome 
+NZ_CP035894.1 Campylobacter jejuni strain 15AR0919 chromosome 
+NZ_CP035895.1 Campylobacter jejuni strain 15AR0917 chromosome 
+NZ_CP038868.1 Campylobacter coli strain 16SHKX65C chromosome, complete genome 
+NZ_CP046243.1 Campylobacter lari strain SCHS02 chromosome, complete genome 
+NZ_CP010481.1 Campylobacter jejuni strain CJ677CC016 chromosome, complete genome 
+NZ_CP010482.1 Campylobacter jejuni strain CJ677CC041 chromosome, complete genome 
+NZ_CP010483.1 Campylobacter jejuni strain CJ677CC535 chromosome, complete genome 
+NZ_CP010488.1 Campylobacter jejuni strain CJ677CC092 chromosome, complete genome 
+NZ_CP010489.1 Campylobacter jejuni strain CJ677CC530 chromosome, complete genome 
+NZ_CP010490.1 Campylobacter jejuni strain CJ677CC532 chromosome, complete genome 
+NZ_CP010491.1 Campylobacter jejuni strain CJ677CC529 chromosome, complete genome 
+NZ_CP010492.1 Campylobacter jejuni strain CJ677CC531 chromosome, complete genome 
+NZ_CP010493.1 Campylobacter jejuni strain CJ677CC062 chromosome, complete genome 
+NZ_CP010494.1 Campylobacter jejuni strain CJ677CC059 chromosome, complete genome 
+NZ_CP010496.1 Campylobacter jejuni strain CJ677CC032 chromosome, complete genome 
+NZ_CP010497.1 Campylobacter jejuni strain CJ677CC033 chromosome, complete genome 
+NZ_CP010498.1 Campylobacter jejuni strain CJ677CC537 chromosome, complete genome 
+NZ_CP010499.1 Campylobacter jejuni strain CJ677CC542 chromosome, complete genome 
+NZ_CP010500.1 Campylobacter jejuni strain CJ677CC528 chromosome, complete genome 
+NZ_CP010495.1 Campylobacter jejuni strain CJ677CC538 chromosome, complete genome 
+NZ_CP010501.1 Campylobacter jejuni strain CJ677CC520 chromosome, complete genome 
+NZ_CP010502.1 Campylobacter jejuni strain CJ677CC014 chromosome, complete genome 
+NZ_CP010503.1 Campylobacter jejuni strain CJ677CC039 chromosome, complete genome 
+NZ_CP010504.1 Campylobacter jejuni strain CJ677CC085 chromosome, complete genome 
+NZ_CP010505.1 Campylobacter jejuni strain CJ677CC052 chromosome, complete genome 
+NZ_CP010506.1 Campylobacter jejuni strain CJ677CC527 chromosome, complete genome 
+NZ_CP010507.1 Campylobacter jejuni strain CJ677CC078 chromosome, complete genome 
+NZ_CP010508.1 Campylobacter jejuni strain CJ677CC523 chromosome, complete genome 
+NZ_CP010509.1 Campylobacter jejuni strain CJ677CC540 chromosome, complete genome 
+NZ_CP010510.1 Campylobacter jejuni strain CJ677CC040 chromosome, complete genome 
+NZ_CP010511.1 Campylobacter jejuni strain CJ677CC061 chromosome, complete genome 
+NZ_CP010457.1 Campylobacter jejuni strain CJ677CC539 chromosome, complete genome 
+NZ_CP010458.1 Campylobacter jejuni strain CJ677CC533 chromosome, complete genome 
+NZ_CP010459.1 Campylobacter jejuni strain CJ677CC047 chromosome, complete genome 
+NZ_CP010460.1 Campylobacter jejuni strain CJ677CC058 chromosome, complete genome 
+NZ_CP010461.1 Campylobacter jejuni strain CJ677CC013 chromosome, complete genome 
+NZ_CP010462.1 Campylobacter jejuni strain CJ677CC100 chromosome, complete genome 
+NZ_CP010463.1 Campylobacter jejuni strain CJ677CC522 chromosome, complete genome 
+NZ_CP010464.1 Campylobacter jejuni strain CJ677CC094 chromosome, complete genome 
+NZ_CP010465.1 Campylobacter jejuni strain CJ677CC008 chromosome, complete genome 
+NZ_CP010466.1 Campylobacter jejuni strain CJ677CC541 chromosome, complete genome 
+NZ_CP010467.1 Campylobacter jejuni strain CJ677CC024 chromosome, complete genome 
+NZ_CP010468.1 Campylobacter jejuni strain CJ677CC064 chromosome, complete genome 
+NZ_CP010469.1 Campylobacter jejuni strain CJ677CC525 chromosome, complete genome 
+NZ_CP010470.1 Campylobacter jejuni strain CJ677CC026 chromosome, complete genome 
+NZ_CP010484.1 Campylobacter jejuni strain CJ677CC034 chromosome, complete genome 
+NZ_CP010485.1 Campylobacter jejuni strain CJ677CC086 chromosome, complete genome 
+NZ_CP010486.1 Campylobacter jejuni strain CJ677CC095 chromosome, complete genome 
+NZ_CP010487.1 Campylobacter jejuni strain CJ677CC012 chromosome, complete genome 
+NZ_CP014344.1 Campylobacter jejuni strain RM3194 chromosome, complete genome 
+NZ_CP014744.1 Campylobacter jejuni strain OD267 chromosome, complete genome 
+NZ_CP014742.1 Campylobacter jejuni strain WP2202 chromosome, complete genome 
+NZ_CP015528.1 Campylobacter coli strain YH501 chromosome, complete genome 
+NZ_CP015576.1 Campylobacter hyointestinalis subsp. lawsonii CCUG 27631 chromosome, complete genome 
+NZ_CP015577.1 Campylobacter iguaniorum strain RM11343 chromosome, complete genome 
+NZ_CP014568.1 Campylobacter fetus subsp. venerealis strain 01/165 chromosome, complete genome 
+NZ_CP015209.1 Campylobacter jejuni subsp. jejuni strain RM1285 chromosome, complete genome 
+NZ_CP031611.1 Campylobacter hepaticus strain HV10 chromosome, complete genome 
+NZ_CP017025.1 Campylobacter coli strain 14983A chromosome, complete genome 
+NZ_CP017029.1 Campylobacter jejuni subsp. jejuni strain 14980A chromosome, complete genome 
+NZ_CP017031.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj07 chromosome, complete genome 
+NZ_CP017032.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj13 chromosome, complete genome 
+NZ_CP017033.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj16 chromosome, complete genome 
+NZ_CP017456.1 Campylobacter jejuni subsp. jejuni str. RM3420 chromosome, complete genome 
+NZ_CP017862.1 Campylobacter jejuni strain FJ3124 chromosome, complete genome 
+NZ_CP017860.1 Campylobacter jejuni strain TS1218 chromosome, complete genome 
+NZ_CP017863.1 Campylobacter jejuni strain IF1100 chromosome, complete genome 
+NZ_CP017865.1 Campylobacter coli strain YF2105 chromosome, complete genome 
+NZ_CP017868.1 Campylobacter coli strain MG1116 chromosome, complete genome 
+NZ_CP017871.1 Campylobacter coli strain BP3183 chromosome, complete genome 
+NZ_CP017873.1 Campylobacter coli strain WA333 chromosome, complete genome 
+NZ_CP017875.1 Campylobacter coli strain ZV1224 chromosome, complete genome 
+NZ_CP017878.1 Campylobacter coli strain BG2108 chromosome, complete genome 
+NZ_CP007749.1 Campylobacter jejuni subsp. jejuni M129 chromosome, complete genome 
+NZ_CP017859.1 Campylobacter jejuni strain YQ2210 chromosome, complete genome 
+NZ_CP017856.1 Campylobacter jejuni strain ZP3204 chromosome, complete genome 
+NZ_CP018900.1 Campylobacter coli strain YH502 chromosome, complete genome 
+NZ_CP007188.1 Campylobacter jejuni strain HF5-4A-4 chromosome, complete genome 
+NZ_CP007189.1 Campylobacter jejuni strain HF5-5-1 chromosome, complete genome 
+NZ_CP007191.1 Campylobacter jejuni strain NS4-1-1 chromosome, complete genome 
+NZ_CP007193.1 Campylobacter jejuni strain NS4-9-1 chromosome, complete genome 
+NZ_CP012546.1 Campylobacter pinnipediorum subsp. pinnipediorum strain RM17260 chromosome, complete genome 
+NZ_CP012547.1 Campylobacter pinnipediorum subsp. pinnipediorum strain RM17261 chromosome, complete genome 
+NZ_CP012548.1 Campylobacter pinnipediorum subsp. pinnipediorum strain RM17262 chromosome, complete genome 
+NZ_CP017018.1 Campylobacter pinnipediorum subsp. caledonicus strain RM18020 chromosome, complete genome 
+NZ_CP017258.1 Campylobacter pinnipediorum subsp. caledonicus strain RM18021 chromosome, complete genome 
+NZ_CP019965.1 Campylobacter jejuni strain NCTC12662 chromosome, complete genome 
+NZ_CP020045.1 Campylobacter jejuni subsp. jejuni strain ATCC 35925 chromosome, complete genome 
+NZ_CP020478.1 Campylobacter helveticus strain ATCC 51209 chromosome, complete genome 
+NZ_CP020776.1 Campylobacter jejuni strain YH002 chromosome, complete genome 
+NZ_CP020867.1 Campylobacter cuniculorum DSM 23162 = LMG 24588 chromosome, complete genome 
+NZ_CP018789.1 Campylobacter sp. RM6137 chromosome, complete genome 
+NZ_CP018793.1 Campylobacter sp. RM12175 chromosome, complete genome 
+NZ_CP018791.1 Campylobacter sp. RM8964 chromosome, complete genome 
+NZ_CP018788.1 Campylobacter lanienae strain NCTC 13003 chromosome, complete genome 
+NZ_CP022077.1 Campylobacter jejuni strain FDAARGOS_263 chromosome, complete genome 
+NZ_CP022079.1 Campylobacter jejuni strain FDAARGOS_265 chromosome, complete genome 
+NZ_CP022080.1 Campylobacter jejuni strain FDAARGOS_266 chromosome, complete genome 
+NZ_CP017229.1 Campylobacter jejuni strain FORC_046 isolate Not reported chromosome, complete genome 
+NZ_CP019683.1 Campylobacter sputorum bv. faecalis CCUG 20703 chromosome, complete genome 
+NZ_CP019684.1 Campylobacter sputorum bv. paraureolyticus LMG 11764 strain LMG 17589 chromosome, complete genome 
+NZ_CP019685.1 Campylobacter sputorum strain RM8705 chromosome, complete genome 
+NZ_CP019682.1 Campylobacter sputorum bv. sputorum RM3237 chromosome, complete genome 
+NZ_CP022439.1 Campylobacter jejuni strain 11168H/lacY chromosome, complete genome 
+NZ_CP022440.1 Campylobacter jejuni strain 81-176_G1_B0 chromosome, complete genome 
+NZ_CP022470.1 Campylobacter jejuni strain jejuni chromosome, complete genome 
+NZ_CP022347.1 Campylobacter avium LMG 24591 chromosome, complete genome 
+NZ_CP023543.1 Campylobacter jejuni strain CFSAN032806 chromosome, complete genome 
+NZ_CP023545.1 Campylobacter coli strain CFSAN032805 chromosome, complete genome 
+NZ_CP023867.1 Campylobacter jejuni strain FDAARGOS_422 chromosome, complete genome 
+NZ_CP023866.1 Campylobacter jejuni strain FDAARGOS_421 chromosome, complete genome 
+NZ_CP025281.1 Campylobacter coli strain YH503 chromosome, complete genome 
+NZ_CP027287.1 Campylobacter fetus subsp. testudinum strain 772 chromosome, complete genome 
+NZ_CP086657.1 Campylobacter coli strain P4581 chromosome, complete genome 
+NZ_CP086159.1 Campylobacter jejuni strain SHI6972 chromosome, complete genome 
+NZ_CP086161.1 Campylobacter jejuni strain SHI4648 chromosome, complete genome 
+NZ_CP086160.1 Campylobacter jejuni strain SHI5328 chromosome, complete genome 
+NZ_CP086167.1 Campylobacter jejuni strain CMP10201 chromosome, complete genome 
+NC_008790.1 Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, complete sequence 
+NC_008770.1 Campylobacter jejuni subsp. jejuni 81-176 plasmid pVir, complete sequence 
+NC_009713.1 Campylobacter hominis ATCC BAA-381 plasmid pCH4, complete sequence 
+NC_009796.1 Campylobacter concisus 13826 plasmid pCCON16, complete sequence 
+NC_009795.1 Campylobacter concisus 13826 plasmid pCCON31, complete sequence 
+NC_012040.1 Campylobacter lari RM2100 plasmid pCL2100, complete sequence 
+NC_017284.1 Campylobacter jejuni subsp. jejuni IA3902 plasmid pVir, complete sequence 
+NC_017282.1 Campylobacter jejuni subsp. jejuni S3 plasmid pTet, complete sequence 
+NC_022355.1 Campylobacter coli CVM N29710 plasmid pN29710-1, complete sequence 
+NC_022348.1 Campylobacter coli CVM N29710 plasmid pN29710-2, complete sequence 
+NC_022354.1 Campylobacter jejuni subsp. jejuni 00-2544 plasmid unnamed, complete sequence 
+NZ_CP076836.1 Campylobacter jejuni X plasmid pTet, complete sequence 
+NZ_CP076837.1 Campylobacter jejuni X plasmid pVir, complete sequence 
+NC_022656.1 Campylobacter coli 15-537360 plasmid pCC42yr, complete sequence 
+NZ_CP007000.1 Campylobacter fetus subsp. venerealis cfvi03/293 plasmid pCfviMP1, complete sequence 
+NZ_CP007001.1 Campylobacter fetus subsp. venerealis cfvi03/293 plasmid pCfviMP2, complete sequence 
+NZ_CP007002.1 Campylobacter fetus subsp. venerealis cfvi03/293 plasmid pCfviP3, complete sequence 
+NZ_CP007185.1 Campylobacter coli RM1875 plasmid pRM1875_2.4kb, complete sequence 
+NZ_CP007186.1 Campylobacter coli RM1875 plasmid pRM1875_3.3kb, complete sequence 
+NZ_CP007184.1 Campylobacter coli RM1875 plasmid pRM1875_35kb, complete sequence 
+NZ_CP007182.1 Campylobacter coli RM4661 plasmid pRM4661_48kbp, complete sequence 
+NZ_CP007180.1 Campylobacter coli RM5611 plasmid pRM5611_48kb, complete sequence 
+NZ_CP009044.1 Campylobacter iguaniorum strain 1485E plasmid pCIG1485E, complete sequence 
+NZ_CP008809.1 Campylobacter fetus subsp. fetus 04/554 plasmid pCFF04554, complete sequence 
+NZ_CP008811.1 Campylobacter fetus subsp. venerealis 97/608 plasmid pCFV97608-1, complete sequence 
+NZ_CP008812.1 Campylobacter fetus subsp. venerealis 97/608 plasmid pCFV97608-2, complete sequence 
+NZ_CP007767.1 Campylobacter peloridis LMG 23910 plasmid pPEL1, complete sequence 
+NZ_CP007768.1 Campylobacter peloridis LMG 23910 plasmid pPEL2, complete sequence 
+NZ_CP010302.1 Campylobacter jejuni subsp. jejuni strain 00-0949 plasmid pTet, complete sequence 
+NZ_CP010303.1 Campylobacter jejuni subsp. jejuni strain 00-0949 plasmid pVir, complete sequence 
+NZ_CP011017.1 Campylobacter coli strain FB1 plasmid pFB1TET, complete sequence 
+NZ_CP011016.1 Campylobacter coli strain FB1 plasmid pCC42, complete sequence 
+NZ_HG004427.1 Campylobacter fetus subsp. venerealis str. 84-112 plasmid II 
+NZ_CP013033.1 Campylobacter coli strain CO2-160 plasmid pccdm3, complete sequence 
+NZ_CP013035.1 Campylobacter coli strain HC2-48 plasmid pccdm1, complete sequence 
+NZ_CP013037.1 Campylobacter coli strain CF2-75 plasmid pccdm2, complete sequence 
+NZ_CP013117.1 Campylobacter jejuni strain T1-21 plasmid pcjDM, complete sequence 
+NZ_CP013736.1 Campylobacter coli strain OR12 plasmid pOR12CC42, complete sequence 
+NZ_CP013735.1 Campylobacter coli strain OR12 plasmid pOR12TET, complete sequence 
+NZ_CP013734.1 Campylobacter coli strain OR12 plasmid pOR12Vir, complete sequence 
+NZ_CP014345.1 Campylobacter jejuni strain RM3194 plasmid unnamed, complete sequence 
+NZ_CP014745.1 Campylobacter jejuni strain OD267 plasmid pCJDM67 L, complete sequence 
+NZ_CP014746.1 Campylobacter jejuni strain OD267 plasmid pCJDM67 S, complete sequence 
+NZ_CP014743.1 Campylobacter jejuni strain WP2202 plasmid pCJDM202, complete sequence 
+NZ_CP014569.1 Campylobacter fetus subsp. venerealis strain 01/165 plasmid mp1, complete sequence 
+NZ_CP014570.1 Campylobacter fetus subsp. venerealis strain 01/165 plasmid mp2, complete sequence 
+NZ_CP017026.1 Campylobacter coli strain 14983A plasmid pCC14983A-1, complete sequence 
+NZ_CP017027.1 Campylobacter coli strain 14983A plasmid pCC14983A-2, complete sequence 
+NZ_CP017028.1 Campylobacter coli strain 14983A plasmid pCC14983A-3, complete sequence 
+NZ_CP017030.1 Campylobacter jejuni subsp. jejuni strain 14980A plasmid pCJ14980A, complete sequence 
+NZ_CP017861.1 Campylobacter jejuni strain TS1218 plasmid pCJDM218, complete sequence 
+NZ_CP017864.1 Campylobacter jejuni strain IF1100 plasmid pCJDM100, complete sequence 
+NZ_CP017866.1 Campylobacter coli strain YF2105 plasmid pCCDM105L, complete sequence 
+NZ_CP017867.1 Campylobacter coli strain YF2105 plasmid pCCDM105S, complete sequence 
+NZ_CP017869.1 Campylobacter coli strain MG1116 plasmid pCCDM116L, complete sequence 
+NZ_CP017870.1 Campylobacter coli strain MG1116 plasmid pCCDM116S, complete sequence 
+NZ_CP017872.1 Campylobacter coli strain BP3183 plasmid pCCDM183, complete sequence 
+NZ_CP017874.1 Campylobacter coli strain WA333 plasmid pCCDM33S, complete sequence 
+NZ_CP017877.1 Campylobacter coli strain ZV1224 plasmid pCCDM224L, complete sequence 
+NZ_CP017876.1 Campylobacter coli strain ZV1224 plasmid pCCDM224S, complete sequence 
+NZ_CP017879.1 Campylobacter coli strain BG2108 plasmid pCCDM108L, complete sequence 
+NZ_CP017880.1 Campylobacter coli strain BG2108 plasmid pCCDM108S, complete sequence 
+NZ_CP007750.1 Campylobacter jejuni subsp. jejuni M129 plasmid pTet-M129, complete sequence 
+NZ_CP017857.1 Campylobacter jejuni strain YQ2210 plasmid pCJDM210L, complete sequence 
+NZ_CP017858.1 Campylobacter jejuni strain YQ2210 plasmid pCJDM210S, complete sequence 
+NZ_CP017854.1 Campylobacter jejuni strain ZP3204 plasmid pCJDM204L, complete sequence 
+NZ_CP018901.1 Campylobacter coli strain YH502 plasmid pCOS502, complete sequence 
+NZ_CP020479.1 Campylobacter helveticus strain ATCC 51209 plasmid pHELV-1, complete sequence 
+NZ_CP020480.1 Campylobacter helveticus strain ATCC 51209 plasmid pHELV-2, complete sequence 
+NZ_CP020481.1 Campylobacter helveticus strain ATCC 51209 plasmid pHELV-3, complete sequence 
+NZ_CP020482.1 Campylobacter helveticus strain ATCC 51209 plasmid pHELV-4, complete sequence 
+NZ_CP020483.1 Campylobacter helveticus strain ATCC 51209 plasmid pHELV-5, complete sequence 
+NZ_CP020775.1 Campylobacter jejuni strain YH002 plasmid pCJP002, complete sequence 
+NZ_CP020868.1 Campylobacter cuniculorum DSM 23162 = LMG 24588 plasmid pCUN1, complete sequence 
+NZ_CP020869.1 Campylobacter cuniculorum DSM 23162 = LMG 24588 plasmid pCUN2, complete sequence 
+NZ_CP018790.1 Campylobacter sp. RM6137 plasmid pSUIS6137, complete sequence 
+NZ_CP018794.1 Campylobacter sp. RM12175 plasmid pVIC12175-1, complete sequence 
+NZ_CP018795.1 Campylobacter sp. RM12175 plasmid pVIC12175-2, complete sequence 
+NZ_CP018792.1 Campylobacter sp. RM8964 plasmid pVIC8964, complete sequence 
+NZ_CP022078.1 Campylobacter jejuni strain FDAARGOS_265 plasmid unnamed1, complete sequence 
+NZ_CP017230.1 Campylobacter jejuni strain FORC_046 isolate Not reported plasmid pFORC46.1, complete sequence 
+NZ_CP017231.1 Campylobacter jejuni strain FORC_046 isolate Not reported plasmid pFORC46.2, complete sequence 
+NZ_CP023546.1 Campylobacter coli strain CFSAN032805 plasmid pCFSAN032805_1, complete sequence 
+NZ_CP023547.1 Campylobacter coli strain CFSAN032805 plasmid pCFSAN032805_2, complete sequence 
+NZ_CP025282.1 Campylobacter coli strain YH503 plasmid pCOS503, complete sequence 
+NZ_CP028186.1 Campylobacter jejuni strain CFSAN054107 plasmid pGMI16-002, complete sequence 
+NZ_CP028188.1 Campylobacter coli strain CFSAN054106 plasmid pGMI16-001, complete sequence 
+NZ_CP021643.1 Campylobacter concisus strain P2CDO4 plasmid pICON, complete sequence 
+NZ_CP049271.1 Campylobacter concisus strain P26UCO-S2 plasmid pAJ3, complete sequence 
+NZ_CP049273.1 Campylobacter concisus strain P27CDO-S2 plasmid pAJ3, complete sequence 
+NZ_CP060706.1 Campylobacter concisus strain P13UCO-S1 plasmid pADS1, complete sequence 
+NZ_CP049265.1 Campylobacter concisus strain P11CDO-S1 plasmid pSA2, complete sequence 
+NZ_CP028373.1 Campylobacter jejuni subsp. jejuni strain huA17 plasmid unnamed1, complete sequence 
+NZ_CP028934.1 Campylobacter jejuni strain FORC_083 plasmid pFORC_083_2, complete sequence 
+NZ_CP082879.1 Campylobacter coli strain FDAARGOS_1465 plasmid unnamed2 
+NZ_CP082880.1 Campylobacter coli strain FDAARGOS_1465 plasmid unnamed3, complete sequence 
+NZ_CP086658.1 Campylobacter coli strain P4581 plasmid pCC001, complete sequence 
+NZ_OU701462.1 Campylobacter upsaliensis strain Campylobacter upsaliensis CCUG 14913 plasmid 2, complete sequence 
+NZ_OU701460.1 Campylobacter upsaliensis strain Campylobacter upsaliensis 17-M197059 plasmid 2, complete sequence 
+NZ_CP028935.1 Campylobacter jejuni strain FORC_083 plasmid pFORC_083_3, complete sequence 
+NZ_CP037749.1 Campylobacter helveticus strain 2013D-9613 plasmid unnamed1 
+NZ_CP037748.1 Campylobacter helveticus strain 2013D-9613 plasmid unnamed2, complete sequence 
+NZ_CP012553.1 Campylobacter sp. RM16192 plasmid p16192, complete sequence 
+NZ_CP040241.1 Campylobacter coli strain S9 plasmid pCcS9_2, complete sequence 
+NZ_CP040242.1 Campylobacter coli strain S9 plasmid pCcS9_3, complete sequence 
+NZ_CP040465.1 Campylobacter hyointestinalis subsp. hyointestinalis strain S12 plasmid pCh1, complete sequence 
+NZ_CP043429.1 Campylobacter volucris strain LMG 24380 plasmid p9726, complete sequence 
+NZ_CP043436.1 Campylobacter fetus subsp. venerealis NCTC 10354 plasmid p3226, complete sequence 
+NZ_CP043764.1 Campylobacter jejuni strain BfR-CA-14430 plasmid pBfR-CA-14430, complete sequence 
+NZ_CP044168.1 Campylobacter jejuni strain AR-0415 plasmid pAR-0415, complete sequence 
+NZ_CP044170.1 Campylobacter jejuni strain AR-0413 plasmid pAR-0413-1, complete sequence 
+NZ_CP044172.1 Campylobacter jejuni strain AR-0413 plasmid pAR-0413-2 
+NZ_CP044176.1 Campylobacter coli strain AR-0411 plasmid pAR-0411, complete sequence 
+NZ_CP044261.1 Campylobacter armoricus strain CA639 plasmid pCA639-1, complete sequence 
+NZ_CP044263.1 Campylobacter armoricus strain CA639 plasmid pCA639-2, complete sequence 
+NZ_CP045046.1 Campylobacter jejuni subsp. jejuni strain NADC 20827 plasmid p20827L, complete sequence 
+NZ_CP045047.1 Campylobacter jejuni subsp. jejuni strain NADC 20827 plasmid p20827S, complete sequence 
+NZ_CP045790.1 Campylobacter jejuni strain CFSAN032806 plasmid pCFSAN032806, complete sequence 
+NZ_CP045792.1 Campylobacter coli strain CFSAN032805 plasmid p2CFSAN032805, complete sequence 
+NZ_CP046318.1 Campylobacter coli strain FDAARGOS_735 plasmid unnamed1, complete sequence 
+NZ_CP035896.1 Campylobacter jejuni strain 15AR0917 plasmid unnamed 
+NZ_CP059440.1 Campylobacter fetus strain CFV08A1102-42A plasmid pCFV_08A1102_P1, complete sequence 
+NZ_CP059444.1 Campylobacter fetus strain CFF00A031 plasmid pCFF_00A031_P1, complete sequence 
+NZ_CP059433.1 Campylobacter fetus strain CFViADRI1362 plasmid pCFViADRI1362_P1, complete sequence 
+NZ_CP059434.1 Campylobacter fetus strain CFViADRI1362 plasmid pCFViADRI1362_P2, complete sequence 
+NZ_CP059435.1 Campylobacter fetus strain CFViADRI1362 plasmid pCFViADRI1362_P3, complete sequence 
+NZ_CP059436.1 Campylobacter fetus strain CFViADRI1362 plasmid pCFViADRI1362_P4, complete sequence 
+NZ_CP059446.1 Campylobacter fetus strain CFF09A980 plasmid pCFF_09A980_P1, complete sequence 
+NZ_CP059442.1 Campylobacter fetus strain CFV08A948-2A plasmid pCFV_08A948_P1, complete sequence 
+NZ_CP059438.1 Campylobacter fetus strain CFViADRI545 plasmid pCFVi_ADRI545_P1, complete sequence 
+NZ_CP048774.1 Campylobacter jejuni strain ZS007 plasmid pCJ3.6K, complete sequence 
+NZ_CP048773.1 Campylobacter jejuni strain ZS007 plasmid pCJ3.7K, complete sequence 
+NZ_CP048772.1 Campylobacter jejuni strain ZS007 plasmid pCJ145K, complete sequence 
+NZ_CP048759.1 Campylobacter jejuni strain ZS006 plasmid pCJ3K-03, complete sequence 
+NZ_CP048758.1 Campylobacter jejuni strain ZS006 plasmid pCJ6K-02, complete sequence 
+NZ_CP048757.1 Campylobacter jejuni strain ZS006 plasmid pCJ41K-01, complete sequence 
+NZ_CP048762.1 Campylobacter jejuni strain ZS004 plasmid pCJFEX, complete sequence 
+NZ_CP048766.1 Campylobacter jejuni strain ZJB023 plasmid pCJ4K-03, complete sequence 
+NZ_CP040614.1 Campylobacter sp. CFSAN093246 plasmid unnamed, complete sequence 
+NZ_CP040609.1 Campylobacter sp. CFSAN093226 plasmid unnamed, complete sequence 
+NZ_CP053843.1 Campylobacter corcagiensis strain LMG 27932 plasmid pCCORG, complete sequence 
+NZ_CP053846.1 Campylobacter sp. CCUG 57310 plasmid pCORI-1, complete sequence 
+NZ_CP053847.1 Campylobacter sp. CCUG 57310 plasmid pCORI-2, complete sequence 
+NZ_CP053829.1 Campylobacter hyointestinalis subsp. lawsonii strain CHY5 plasmid pCHY5, complete sequence 
+NZ_CP058294.1 Campylobacter jejuni strain D33a plasmid pTet, complete sequence 
+NZ_CP058300.1 Campylobacter jejuni strain A9a plasmid pTet, complete sequence 
+NZ_CP058341.1 Campylobacter coli strain 20A420 plasmid unnamed, complete sequence 
+NZ_CP058296.1 Campylobacter jejuni strain A14a plasmid pTet map unlocalized 
+NZ_CP058297.1 Campylobacter jejuni strain A14a plasmid pTet map unlocalized 
+NZ_CP058298.1 Campylobacter jejuni strain A14a plasmid pTet map unlocalized 
+NZ_CP058337.1 Campylobacter coli strain R7B144 plasmid unnamed map unlocalized 
+NZ_CP058338.1 Campylobacter coli strain R7B144 plasmid unnamed map unlocalized 
+NZ_CP058339.1 Campylobacter coli strain R7B144 plasmid unnamed map unlocalized 
+NZ_CP059683.1 Campylobacter upsaliensis strain FDAARGOS_736 plasmid unnamed1 
+NZ_CP027635.1 Campylobacter coli strain meC0281 plasmid unnamed1, complete sequence 
+NZ_CP027636.1 Campylobacter coli strain meC0281 plasmid unnamed2, complete sequence 
+NZ_CP063077.1 Campylobacter corcagiensis strain 2016D-0077 plasmid pLMG-27932-1 
+NZ_CP063080.1 Campylobacter peloridis strain 2016D-0074 plasmid pLMG-23910-1 
+NZ_CP049236.1 Campylobacter concisus strain P15UCO-S2 plasmid pSma1, complete sequence 
+NZ_CP049235.1 Campylobacter concisus strain P15UCO-S2 plasmid pSma2, complete sequence 
+NZ_CP049233.1 Campylobacter concisus strain H9O-S2 plasmid pTJ3, complete sequence 
+NZ_CP066028.1 Campylobacter coli strain FDAARGOS_1028 plasmid unnamed1, complete sequence 
+NZ_CP066029.1 Campylobacter coli strain FDAARGOS_1028 plasmid unnamed2, complete sequence 
+NZ_CP066030.1 Campylobacter coli strain FDAARGOS_1028 plasmid unnamed3, complete sequence 
+NZ_CP066031.1 Campylobacter coli strain FDAARGOS_1028 plasmid unnamed4, complete sequence 
+NZ_CP066747.1 Campylobacter jejuni strain CJP19-D445 isolate CFSAN091031 plasmid unnamed, complete sequence 
+NZ_CP071461.1 Campylobacter jejuni strain CAMSA2002 plasmid pTet, complete sequence 
+NZ_CP071593.1 Campylobacter jejuni subsp. jejuni strain GB19 plasmid pGB19, complete sequence 
+NZ_CP068568.1 Campylobacter jejuni strain CC19PF065 plasmid pPF065-186, complete sequence 
+NZ_CP068569.1 Campylobacter jejuni strain CC19PF065 plasmid pPF065-3, complete sequence 
+NZ_CP068590.1 Campylobacter coli strain CC19CH076 plasmid pCH076-2, complete sequence 
+NZ_CP068589.1 Campylobacter coli strain CC19CH076 plasmid pCH076-3, complete sequence 
+NZ_CP068588.1 Campylobacter coli strain CC19CH076 plasmid pCH076-4, complete sequence 
+NZ_CP068587.1 Campylobacter coli strain CC19CH076 plasmid pCH076-80, complete sequence 
+NZ_CP076508.1 Campylobacter jejuni strain R16.0174 plasmid pR16.0174_45k, complete sequence 
+NZ_CP076512.1 Campylobacter coli strain R19.0802 plasmid pR19.0802_3.3k, complete sequence 
+NZ_CP076511.1 Campylobacter coli strain R19.0802 plasmid pR19.0802_49k, complete sequence 
+NZ_CP076506.1 Campylobacter jejuni strain R16.4752 plasmid pR16.4752_49k, complete sequence 
+NZ_CP076658.1 Campylobacter novaezeelandiae strain W441b plasmid pCNZW441b1, complete sequence 
+NZ_CP076659.1 Campylobacter novaezeelandiae strain W441b plasmid pCNZW441b2, complete sequence 
+NZ_CP077634.1 Campylobacter jejuni strain R16.2162 plasmid pR16.2162_46k, complete sequence 
+NZ_CP077636.1 Campylobacter jejuni strain R19.1007 plasmid pR19.1007_38k, complete sequence 
+NZ_CP077637.1 Campylobacter jejuni strain R19.1007 plasmid pR19.1007_53.9k, complete sequence 
+NZ_CP082875.1 Campylobacter coli strain FDAARGOS_1466 plasmid unnamed1, complete sequence 
+NZ_CP082876.1 Campylobacter coli strain FDAARGOS_1466 plasmid unnamed2, complete sequence 
+NZ_CP082872.1 Campylobacter hominis strain FDAARGOS_1467 plasmid unnamed1, complete sequence 
+NZ_CP082873.1 Campylobacter hominis strain FDAARGOS_1467 plasmid unnamed2 
+NZ_CP082878.1 Campylobacter coli strain FDAARGOS_1465 plasmid unnamed1 
